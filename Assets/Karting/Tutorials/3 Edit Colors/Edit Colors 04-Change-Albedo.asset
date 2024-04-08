@@ -59,8 +59,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Change the color
       Text:
-        m_Untranslated: In the <b>Inspector</b>, find the <b>Surface Inputs</b> section
-          and the <b>color picker box</b> labeled <b>Base Map</b>.
+        m_Untranslated: In the <b>Inspector</b>, find the <b>Main Maps</b> section
+          and the <b>color picker box</b> labeled <b>Albedo</b>.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -105,7 +105,7 @@ MonoBehaviour:
       Title:
         m_Untranslated: Change the color
       Text:
-        m_Untranslated: '<b>1.</b> Select the <b>Base Map</b> color box to open the
+        m_Untranslated: '<b>1.</b> Select the <b>Albedo</b> color box to open the
           <b>Color Picker window</b>.
 
 
